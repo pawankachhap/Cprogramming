@@ -1,1 +1,2 @@
- # C language codes \n compiler - gcc 
+ # C language codes
+compiler - gcc 
